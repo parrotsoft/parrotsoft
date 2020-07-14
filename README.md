@@ -1,4 +1,4 @@
-"# Miguel Lopez Ariza" 
+# Miguel Lopez Ariza - @parrotsoft
 
 
 # SOBRE MÍ
