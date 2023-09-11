@@ -7,13 +7,20 @@ Hola, soy un apasionado por la programación en general, desde adolescente inici
 
 ## EXPERIENCIA
 
+### Evertec - PlacetoPay - Full Stack Development Sr Specialist
+
+2022 - Actual
+
+Diseño del nuevo modelo relacional para comercios, planes y suscripciones.
+
+
 ### Desarrollador Full Stack
 
-2018 - Actual
+2018 - 2022
 
 Soft-G.Net
 
-Programador full stack de modulos para la gestión de transporte de compañias norteamericanas.
+Programador full stack de módulos para la gestión de transporte de compañías norteamericanas.
 
 ### Desarrollador - CEO
 
@@ -21,7 +28,7 @@ Programador full stack de modulos para la gestión de transporte de compañias n
 
 Grafico App
 
-Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQL y App Moviles en Xamarin y JQuery Mobile.
+Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQL y App Móviles en Xamarin y JQuery Mobile.
 
 ### Desarrollador
 
@@ -29,7 +36,7 @@ Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQ
 
 Explain System & Solutions
 
-Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQL y App Moviles en JQuery Mobile.
+Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQL y App Móviles en JQuery Mobile.
 
 ### Desarrollador Desktop
 
@@ -37,7 +44,7 @@ Programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQ
 
 Facon Construcciones
 
-Desarrollo de un aplicativo para la gestión de informes médicos en Borlan Denphi 5.
+Desarrollo de un aplicativo para la gestión de informes médicos en Borland Delphi 5.
 
 ## PROYECTOS
 
@@ -47,9 +54,9 @@ Los siguientes son los proyectos mas importantes en los que participe con distin
 
 [PATI](http://18.188.136.180/views/login/login.php)  -Aplicativo que implementa un canal de comunicación directo entre los profesores, administrativos, padres y estudiantes de instituciones educativas.
 
-[TaSchedule](http://webappdev.taschedule.com/)  -Aplicativo para la gestión de ruta de busces públicos en Miami.
+[TaSchedule](http://webappdev.taschedule.com/)  -Aplicativo para la gestión de ruta de buses públicos en Miami.
 
-[Trip2](http://dev.trip2.com/)  -Aplicativo para la gestión de citas medicas y call center.
+[Trip2](http://dev.trip2.com/)  -Aplicativo para la gestión de citas médicas y call center.
 
 ## HABILIDADES & COMPETENCIAS
 
