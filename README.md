@@ -48,15 +48,15 @@ Desarrollo de un aplicativo para la gestión de informes médicos en Borland Del
 
 ## PROYECTOS
 
-Los siguientes son los proyectos mas importantes en los que participe con distintos roles, cada uno marco dejo conocimientos que hoy en día me convierten en un mejor desarrollador.
+Los siguientes son los proyectos más importantes en los que participe con distintos roles, cada uno marco dejo conocimientos que hoy en día me convierten en un mejor desarrollador.
 
 [My Tienda](https://play.google.com/store/apps/details?id=myTienda.myTienda&hl=es)  -  Aplicativo web y móvil que permite la gestión de pedidos en negocios de barrios.
 
-[PATI](http://18.188.136.180/views/login/login.php)  -Aplicativo que implementa un canal de comunicación directo entre los profesores, administrativos, padres y estudiantes de instituciones educativas.
+[PATI](http://18.188.136.180/views/login/login.php)  - Aplicativo que implementa un canal de comunicación directo entre los profesores, administrativos, padres y estudiantes de instituciones educativas.
 
-[TaSchedule](http://webappdev.taschedule.com/)  -Aplicativo para la gestión de ruta de buses públicos en Miami.
+[TaSchedule](http://webappdev.taschedule.com/)  - Aplicativo para la gestión de ruta de buses públicos en Miami.
 
-[Trip2](http://dev.trip2.com/)  -Aplicativo para la gestión de citas médicas y call center.
+[Trip2](http://dev.trip2.com/)  - Aplicativo para la gestión de citas médicas y call center.
 
 ## HABILIDADES & COMPETENCIAS
 
