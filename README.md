@@ -1,9 +1,8 @@
 # Miguel Lopez Ariza - @parrotsoft
 
-[![parrotsoft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/parrotsoft/github-readme-stats#gh-dark-mode-only)
+| [![parrotsoft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/parrotsoft/github-readme-stats#gh-dark-mode-only) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8) |
+|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8)
 
 ## SOBRE MÍ
 
