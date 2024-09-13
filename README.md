@@ -3,6 +3,8 @@
 [![parrotsoft GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/parrotsoft/github-readme-stats#gh-dark-mode-only)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8)
+
 ## SOBRE MÍ
 
 Apasionado por la programación desde mi adolescencia, inicié un proceso continuo de autoaprendizaje que ha evolucionado con los años. Mi viaje comenzó en 2003 con una modesta computadora y un antiguo libro de Turbo Pascal. Desde entonces, mi dedicación ha sido inquebrantable, abarcando diversos lenguajes y tecnologías.
