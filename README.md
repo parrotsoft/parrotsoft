@@ -51,4 +51,5 @@ Apasionado por la programación desde mi adolescencia, inicié un proceso contin
 Mi trayectoria en diversos roles y proyectos ha fortalecido mis habilidades, convirtiéndome en un desarrollador versátil y comprometido con la excelencia técnica. Estoy abierto a nuevas oportunidades que desafíen y expandan mis conocimientos en el fascinante mundo de la programación.
 
 ## Tools
-- [**ExcalidrawG**](https://excalidrawg.onrender.com/)
+- [**Excalidraw**](https://excalidrawg.onrender.com/)
+- [**Stackedit**](https://stackedit.io/)
