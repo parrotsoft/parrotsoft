@@ -2,9 +2,7 @@
 
 <div align="center">
 
-| GitHub Stats | Lenguajes Más Usados |
-|:---:|:---:|
-| ![parrotsoft GitHub stats](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8&layout=compact) |
+<img src="https://streak-stats.demolab.com?user=parrotsoft&theme=deafult&hide_border=true" />
 
 </div>
 
