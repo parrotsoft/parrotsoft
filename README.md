@@ -1,55 +1,114 @@
-# Miguel Lopez Ariza - @parrotsoft
+# Miguel López Ariza (@parrotsoft)
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8&layout=compact) | ![parrotsoft GitHub stats](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=radical) |
-|:------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------:|
+<div align="center">
 
+| GitHub Stats | Lenguajes Más Usados |
+|:---:|:---:|
+| ![parrotsoft GitHub stats](https://github-readme-stats.vercel.app/api?username=parrotsoft&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parrotsoft&langs_count=8&layout=compact) |
 
-## SOBRE MÍ
+</div>
 
-Apasionado por la programación desde mi adolescencia, inicié un proceso continuo de autoaprendizaje que ha evolucionado con los años. Mi viaje comenzó en 2003 con una modesta computadora y un antiguo libro de Turbo Pascal. Desde entonces, mi dedicación ha sido inquebrantable, abarcando diversos lenguajes y tecnologías.
+---
 
-## EXPERIENCIA
+# 👨‍💻 Sobre mí
 
-### Evertec - Placetopay - Full Stack Development Sr Specialist
-*(2022 - Actual)*
-- Lideré el diseño del nuevo modelo relacional para comercios, planes y suscripciones.
+Ingeniero de Sistemas, desarrollador Full Stack y docente universitario con más de 15 años de experiencia en desarrollo de software, plataformas transaccionales y soluciones empresariales.
 
-### Desarrollador Full Stack
-*(2018 - 2022)*
-- En Soft-G.Net, desarrollé módulos completos para la gestión de transporte de compañías norteamericanas.
+Me especializo en arquitectura backend, diseño de modelos relacionales, desarrollo web y construcción de plataformas escalables orientadas al rendimiento y la experiencia de usuario.
 
-### Desarrollador - CEO
-*(2015 - 2018)*
-- En Grafico App, dirigí la programación de módulos administrativos utilizando PHP, Bootstrap3, CSS3, MySQL, y desarrollé aplicaciones móviles en Xamarin y JQuery Mobile.
+A lo largo de mi carrera he participado en proyectos relacionados con pasarelas de pago, sistemas administrativos, plataformas educativas, soluciones de transporte y aplicaciones empresariales.
 
-### Desarrollador
-*(2014 - 2015)*
-- En Explain System & Solutions, contribuí al desarrollo de módulos administrativos y aplicaciones móviles utilizando PHP, Bootstrap3, CSS3, MySQL y JQuery Mobile.
+---
 
-### Desarrollador Desktop
-*(2003 - 2004)*
-- En Facon Construcciones, lideré el desarrollo de una aplicación para la gestión de informes médicos en Borland Delphi 5.
+# 💼 Experiencia Profesional
 
-## PROYECTOS DESTACADOS
+## Evertec / PlacetoPay — Full Stack Development Sr Specialist
+**2022 - Actualidad**
 
-- **My Tienda:** Aplicativo web y móvil para la gestión de pedidos en negocios locales.
-  
-- **PATI:** Aplicativo que facilita la comunicación entre profesores, administrativos, padres y estudiantes en instituciones educativas.
-  
-- **TaSchedule:** Aplicativo para la gestión de rutas de buses públicos en Miami.
-  
-- **Trip2:** Aplicativo para la gestión de citas médicas y call center.
+- Lideré el diseño e implementación del nuevo modelo relacional para comercios, planes y suscripciones.
+- Participé en el desarrollo y optimización de sistemas transaccionales de alta disponibilidad.
+- Diseñé y desarrollé un nuevo panel administrativo transaccional enfocado en escalabilidad, eficiencia operativa y experiencia de usuario.
+- Implementé mejoras de arquitectura backend e integraciones entre servicios.
 
-## HABILIDADES & COMPETENCIAS
+---
 
-- **Lenguajes de Programación:** PHP, .Net
-- **Frameworks:** Laravel, Xamarin
-- **Frontend:** Javascript, Angular, Ionic, HTML5, CSS
-- **Base de Datos:** MySQL
-- **Metodologías:** Desarrollo Full Stack, Diseño de Modelos Relacionales
+## Soft-G.Net — Desarrollador Full Stack
+**2018 - 2022**
 
-Mi trayectoria en diversos roles y proyectos ha fortalecido mis habilidades, convirtiéndome en un desarrollador versátil y comprometido con la excelencia técnica. Estoy abierto a nuevas oportunidades que desafíen y expandan mis conocimientos en el fascinante mundo de la programación.
+- Desarrollo de módulos empresariales para la gestión de transporte en compañías norteamericanas.
+- Construcción y mantenimiento de aplicaciones web orientadas a operaciones y logística.
+- Optimización de procesos backend y estructuras de bases de datos.
 
-## Tools
-- [**Excalidraw**](https://excalidrawg.onrender.com/)
-- [**Stackedit**](https://stackedit.io/)
+---
+
+## Grafico App — CEO & Full Stack Developer
+**2015 - 2018**
+
+- Lideré el desarrollo técnico y la arquitectura de soluciones empresariales.
+- Desarrollo de módulos administrativos y aplicaciones móviles.
+- Gestión de productos y despliegues tecnológicos.
+
+---
+
+## Explain System & Solutions — Desarrollador
+**2014 - 2015**
+
+- Desarrollo de módulos administrativos y soluciones web empresariales.
+- Implementación de mejoras frontend y backend para plataformas corporativas.
+
+---
+
+# 🚀 Proyectos Destacados
+
+## My Tienda
+Plataforma web y móvil para la gestión de pedidos y operaciones comerciales en negocios locales.
+
+## PATI
+Sistema de comunicación académica entre docentes, administrativos, estudiantes y padres de familia.
+
+## TaSchedule
+Aplicación para la gestión de rutas de transporte público en Miami.
+
+## Trip2
+Plataforma para la gestión de citas médicas y operaciones de call center.
+
+---
+
+# 🛠 Stack Tecnológico
+
+## Backend
+- Python
+- Laravel
+- APIs REST
+
+## Frontend
+- Angular
+- Vue.js
+- TailwindCSS
+
+## Bases de Datos
+- MySQL
+
+## Especialidades
+- Arquitectura de Software
+- Desarrollo Full Stack
+- Sistemas Transaccionales
+- Diseño de Modelos Relacionales
+- Integración de Servicios
+- Plataformas Empresariales
+
+---
+
+# 📚 Docencia
+
+Actualmente también me desempeño como docente universitario en áreas relacionadas con programación, ingeniería de software y desarrollo web.
+
+---
+
+# 📫 Contacto
+
+- GitHub: [@parrotsoft](https://github.com/parrotsoft)
+
+---
+
+> “Construyendo soluciones escalables a través del aprendizaje continuo y la ingeniería de software.”
