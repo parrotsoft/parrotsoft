@@ -74,18 +74,23 @@ Plataforma para la gestión de citas médicas y operaciones de call center.
 
 # 🛠 Stack Tecnológico
 
-## Backend
-- Python
-- Laravel
-- APIs REST
+### Backend
 
-## Frontend
-- Angular
-- Vue.js
-- TailwindCSS
+<p>
+  <img src="https://skillicons.dev/icons?i=python,laravel" />
+</p>
 
-## Bases de Datos
-- MySQL
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,vue,tailwind" />
+</p>
+
+### Bases de Datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ## Especialidades
 - Arquitectura de Software
